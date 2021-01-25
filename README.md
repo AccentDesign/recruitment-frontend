@@ -1,7 +1,7 @@
 Accent Design Front End Technical Test
 ======================================
 
-Thanks for your interest in the role of front-end web developer at Accent Creative Digital Solutions. We are looking for an experienced full stack developer with skills in HTML, CSS/SCSS and JavaScript, and with good communication skills, to join our established team developing websites, web-based software systems and mobile apps. The successful candidate will join the team on a full-time basis at our studio in Norwich, UK, or as a remote worker. We are a small team, so you will be be a big part of it. Your voice will be heard and you will be expected to take on jobs outside of your comfort zone.
+Thanks for your interest in the role of front-end web developer at Accent Design. We are looking for an experienced full stack developer with skills in HTML, CSS/SCSS and JavaScript, and with good communication skills, to join our established team developing websites, web-based software systems and mobile apps. The successful candidate will join the team on a full-time basis at our studio in Norwich, UK, or as a remote worker. We are a small team, so you will be be a big part of it. Your voice will be heard and you will be expected to take on jobs outside of your comfort zone.
 
 If you think you are up for it, then we would like you to spend 2-3 hours having a go at our front end technical test...
 
